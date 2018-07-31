@@ -1,5 +1,6 @@
 <div>
-  <h1>기술면접 대비공부 JAVA SE</h1>
+  <h1>기술면접 대비공부 INDEX</h1>
+  <h3>JAVA SE</h3>
   <div><a href="#javase1">1. 사용해 본 웹 컨테이너는?</a></div>
   <div><a href="#javase2">2. JVM 의 메모리 구조를 설명하세요.</a></div>
   <div><a href="#javase3">3. 스레드의 생명주기를 설명하세요.</a></div>
