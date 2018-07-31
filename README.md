@@ -1,5 +1,5 @@
 <div>
-  <h1>기술면접 대비공부 INDEX</h1>
+  <h1>기술면접 대비공부</h1>
   <h3>JAVA SE</h3>
   <div><a href="#javase1">1. 사용해 본 웹 컨테이너는?</a></div>
   <div><a href="#javase2">2. JVM 의 메모리 구조를 설명하세요.</a></div>
@@ -12,6 +12,27 @@
   <div><a href="#javase9">9. 스트림의 종류를 설명하세요.</a></div>
   <div><a href="#javase10">10. 다형성이란 무엇인가?</a></div>
   <div><a href="#javase11">11. JDBC란 무엇인가?</a></div>
+  
+  <h3>JAVA EE</h3>
+  <div><a href="#javaee1">1. 커넥션풀링이란 무엇인가?</a></div>
+  <div><a href="#javaee2">2. 모델1과 모델2의 차이점은?</a></div>
+  <div><a href="#javaee3">3. MVC 패턴이 무엇이고 왜 사용하는가?</a></div>
+  <div><a href="#javaee4">4. 모델2란 무엇인가?</a></div>
+  <div><a href="#javaee5">5. WAS란 무엇이고 사용해본 제품은 어떤것이 있는가?</a></div>
+  <div><a href="#javaee6">6. X-Internet 이란 무엇이고 사용해본 솔루션에는 어떤 것이 있는가?</a></div>
+  <div><a href="#javaee7">7. 사용해본 데이터베이스 모델링 툴은 어떤게 있는가?</a></div>
+  <div><a href="#javaee8">8. 서블릿의 생명주기를 설명하세요.</a></div>
+  <div><a href="#javaee9">9. jar 와 war의 차이점은 무엇인가?</a></div>
+  <div><a href="#javaee10">10. 바인드변수란 무엇인가?</a></div>
+  <div><a href="#javaee11">11. 디자인패턴이란 무엇이고 개발시 적용해본 패턴에는 어떤것이 있는가?</a></div>
+  <div><a href="#javaee12">12. 바인드변수란 무엇인가?</a></div>
+  <div><a href="#javaee13">13. 사용할 수 있는 IDE에는 무엇이 있는가?</a></div>
+  <div><a href="#javaee14">14. VCS(Version Control System)에 대해 설명하고, 이 중 사용할 수 있는 시스템은 무엇인 가?</a></div>
+  <div><a href="#javaee15">15. 프레임워크란 무엇인가?</a></div>
+  <div><a href="#javaee16">16. ORM 프레임웍은 무엇인가?</a></div>
+  <div><a href="#javaee17">17. SQL 매핑 프레임웍은 무엇인가?</a></div>
+  <div><a href="#javaee18">18. SpringMVC 란 무엇인가?</a></div>
+  <div><a href="#javaee19">19. POJO 란 무엇인가?</a></div>
 </div>
 
 <div><br><br></div>
