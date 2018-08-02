@@ -68,7 +68,7 @@
     <h3>왜 JVM 메모리 구조를 알아야 하는가?</h3>
     <p>+ 같은 기능의 프로그램이더라도 메모리 관리에 따라 성능이 좌우됩니다. 메모리 관리가 되지 않은 경우 속도저하 현상이나 튕김 현상 등이 일어날 수 있어 한정된 메모리를 효율적으로 사용하기 위해 JVM의 메모리 구조를 아는 것이 중요합니다.</p>
     
-    → http://www.incodom.kr/%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%28Java_Virtual_Machine%2C_JVM%29/%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0
+    <div>→ http://www.incodom.kr/%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%28Java_Virtual_Machine%2C_JVM%29/%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0</div>
 </div>
 
 <div><br><br></div>
