@@ -54,9 +54,21 @@
 
 <div>
     <h2 id="javase2">2. JVM 의 메모리 구조를 설명하세요.</h2>
-    <h3>JVM</h3>
+    <h3>자바가상머신(Java Virtual Machine, JVM)</h3>
     <p>JVM은 실행될 클래스 파일을 메모리에 로드 후 초기화 작업을 수행합니다. 메소드와 클래스변수들을 해당 메모리 영역에 배치하고 클래스로드가 끝난 후 JVM 은 main 메소드를 찾아 지역변수, 객체변수, 참조변수를 스택에 쌓습니다. 다음 라인을 진행하면서 상황에 맞는 작업(함수 호출, 객체 할당 등)을 수행합니다.</p>
     <h3>JVM의 메모리 구조</h3>
+    <p>+ 프로그램을 실행하기 위한 데이터 및 명령어를 저장하는 공간을 말합니다. 즉 응용프로그램이 실행되면 JVM은 이 메모리를 사용하게 됩니다.</p>
+    <ul>
+        <dl>JAVA Source : 사용자가 작성한 JAVA 코드</dl>
+        <dl>JAVA Compiler : JAVA 코드를 Byte Code로 변환시켜주는 기능</dl>
+        <dl>Class Loader : Class 파일을 메모리(Runtime Data Area)에 적재하는 기능</dl>
+        <dl>Execution Engine : Byte Code를 실행 가능하게 해석해주는 기능</dl>
+        <dl>Runtime Data Area : 프로그램을 수행하기 위해 OS에서 할당 받은 메모리 공간</dl>
+    </ul>
+    <h3>왜 JVM 메모리 구조를 알아야 하는가?</h3>
+    <p>+ 같은 기능의 프로그램이더라도 메모리 관리에 따라 성능이 좌우됩니다. 메모리 관리가 되지 않은 경우 속도저하 현상이나 튕김 현상 등이 일어날 수 있어 한정된 메모리를 효율적으로 사용하기 위해 JVM의 메모리 구조를 아는 것이 중요합니다.</p>
+    
+    → http://www.incodom.kr/%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%28Java_Virtual_Machine%2C_JVM%29/%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0
 </div>
 
 <div><br><br></div>
