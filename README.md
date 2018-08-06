@@ -36,7 +36,7 @@
     <div><a href="#javaee19">19. POJO 란 무엇인가?</a></div>
 </div>
 
-<!--공백--><div><br><br></div>
+<!--공백--><div><br><br></div><hr>
 
 <div>
     <h2 id="javase1">1. 사용해 본 웹 컨테이너는?</h2>
@@ -50,7 +50,7 @@
     → https://ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EC%B9%98_%ED%86%B0%EC%BA%A3
 </div>
 
-<!--공백--><div><br><br></div>
+<!--공백--><div><br><br></div><hr>
 
 <div>
     <h2 id="javase2">2. JVM 의 메모리 구조를 설명하세요.</h2>
