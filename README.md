@@ -15,31 +15,30 @@
 </div>
 <div>
     <h3>JAVA EE</h3>
-    <div><a href="#javaee1">&nbsp;1. 커넥션풀링이란 무엇인가?</a></div>
-    <div><a href="#javaee2">&nbsp;2. 모델1과 모델2의 차이점은?</a></div>
-    <div><a href="#javaee3">&nbsp;3. MVC 패턴이 무엇이고 왜 사용하는가?</a></div>
-    <div><a href="#javaee4">&nbsp;4. 모델2란 무엇인가?</a></div>
-    <div><a href="#javaee5">&nbsp;5. WAS란 무엇이고 사용해본 제품은 어떤것이 있는가?</a></div>
-    <div><a href="#javaee6">&nbsp;6. X-Internet 이란 무엇이고 사용해본 솔루션에는 어떤 것이 있는가?</a></div>
-    <div><a href="#javaee7">&nbsp;7. 사용해본 데이터베이스 모델링 툴은 어떤게 있는가?</a></div>
-    <div><a href="#javaee8">&nbsp;8. 서블릿의 생명주기를 설명하세요.</a></div>
-    <div><a href="#javaee9">&nbsp;9. jar 와 war의 차이점은 무엇인가?</a></div>
-    <div><a href="#javaee10">10. 바인드변수란 무엇인가?</a></div>
-    <div><a href="#javaee11">11. 디자인패턴이란 무엇이고 개발시 적용해본 패턴에는 어떤것이 있는가?</a></div>
-    <div><a href="#javaee12">12. 바인드변수란 무엇인가?</a></div>
-    <div><a href="#javaee13">13. 사용할 수 있는 IDE에는 무엇이 있는가?</a></div>
-    <div><a href="#javaee14">14. VCS(Version Control System)에 대해 설명하고, 이 중 사용할 수 있는 시스템은 무엇인 가?</a></div>
-    <div><a href="#javaee15">15. 프레임워크란 무엇인가?</a></div>
-    <div><a href="#javaee16">16. ORM 프레임웍은 무엇인가?</a></div>
-    <div><a href="#javaee17">17. SQL 매핑 프레임웍은 무엇인가?</a></div>
-    <div><a href="#javaee18">18. SpringMVC 란 무엇인가?</a></div>
-    <div><a href="#javaee19">19. POJO 란 무엇인가?</a></div>
+    <div><a href="#javaee11">11. 커넥션풀링이란 무엇인가?</a></div>
+    <div><a href="#javaee12">12. 모델1과 모델2의 차이점은?</a></div>
+    <div><a href="#javaee13">13. MVC 패턴이 무엇이고 왜 사용하는가?</a></div>
+    <div><a href="#javaee14">14. 모델2란 무엇인가?</a></div>
+    <div><a href="#javaee15">15. WAS란 무엇이고 사용해본 제품은 어떤것이 있는가?</a></div>
+    <div><a href="#javaee16">16. X-Internet 이란 무엇이고 사용해본 솔루션에는 어떤 것이 있는가?</a></div>
+    <div><a href="#javaee17">17. 사용해본 데이터베이스 모델링 툴은 어떤게 있는가?</a></div>
+    <div><a href="#javaee18">18. 서블릿의 생명주기를 설명하세요.</a></div>
+    <div><a href="#javaee19">19. jar 와 war의 차이점은 무엇인가?</a></div>
+    <div><a href="#javaee20">20. 바인드변수란 무엇인가?</a></div>
+    <div><a href="#javaee21">21. 디자인패턴이란 무엇이고 개발시 적용해본 패턴에는 어떤것이 있는가?</a></div>
+    <div><a href="#javaee22">22. 바인드변수란 무엇인가?</a></div>
+    <div><a href="#javaee23">23. 사용할 수 있는 IDE에는 무엇이 있는가?</a></div>
+    <div><a href="#javaee24">24. VCS(Version Control System)에 대해 설명하고, 이 중 사용할 수 있는 시스템은 무엇인 가?</a></div>
+    <div><a href="#javaee25">25. 프레임워크란 무엇인가?</a></div>
+    <div><a href="#javaee26">26. ORM 프레임웍은 무엇인가?</a></div>
+    <div><a href="#javaee27">27. SQL 매핑 프레임웍은 무엇인가?</a></div>
+    <div><a href="#javaee28">28. SpringMVC 란 무엇인가?</a></div>
+    <div><a href="#javaee29">29. POJO 란 무엇인가?</a></div>
 </div>
 
-<!--공백--><div><br><br></div><hr>
-
+<!--공백--><div><br><br></div><hr id="javase1">
 <div>
-    <h2 id="javase1">1. 사용해 본 웹 컨테이너는?</h2>
+    <h2>1. 사용해 본 웹 컨테이너는?</h2>
     <h3>Tomcat 입니다.</h3>
     <p>+ 아파치 톰캣(Apache Tomcat)을 사용해보았습니다.</p>
     <p>+ Tomcat 이란 Java Servlet을 실행하고 JSP 가 포함된 웹 페이지를 렌더링하는 Apache Software Foundation의 응용 프로그램 서버입니다.
