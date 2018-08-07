@@ -15,7 +15,7 @@
 </div>
 <div>
     <h3>JAVA EE</h3>
-    <div><a href="#javaee11">11. 커넥션풀링이란 무엇인가?</a></div>
+    <div><a href="#javaee11">11. 커넥션 풀이란 무엇인가?</a></div>
     <div><a href="#javaee12">12. 모델1과 모델2의 차이점은?</a></div>
     <div><a href="#javaee13">13. MVC 패턴이 무엇이고 왜 사용하는가?</a></div>
     <div><a href="#javaee14">14. 모델2란 무엇인가?</a></div>
@@ -26,14 +26,13 @@
     <div><a href="#javaee19">19. jar 와 war의 차이점은 무엇인가?</a></div>
     <div><a href="#javaee20">20. 바인드변수란 무엇인가?</a></div>
     <div><a href="#javaee21">21. 디자인패턴이란 무엇이고 개발시 적용해본 패턴에는 어떤것이 있는가?</a></div>
-    <div><a href="#javaee22">22. 바인드변수란 무엇인가?</a></div>
-    <div><a href="#javaee23">23. 사용할 수 있는 IDE에는 무엇이 있는가?</a></div>
-    <div><a href="#javaee24">24. VCS(Version Control System)에 대해 설명하고, 이 중 사용할 수 있는 시스템은 무엇인 가?</a></div>
-    <div><a href="#javaee25">25. 프레임워크란 무엇인가?</a></div>
-    <div><a href="#javaee26">26. ORM 프레임웍은 무엇인가?</a></div>
-    <div><a href="#javaee27">27. SQL 매핑 프레임웍은 무엇인가?</a></div>
-    <div><a href="#javaee28">28. SpringMVC 란 무엇인가?</a></div>
-    <div><a href="#javaee29">29. POJO 란 무엇인가?</a></div>
+    <div><a href="#javaee22">22. 사용할 수 있는 IDE에는 무엇이 있는가?</a></div>
+    <div><a href="#javaee23">23. VCS(Version Control System)에 대해 설명하고, 이 중 사용할 수 있는 시스템은 무엇인 가?</a></div>
+    <div><a href="#javaee24">24. 프레임워크란 무엇인가?</a></div>
+    <div><a href="#javaee25">25. ORM 프레임웍은 무엇인가?</a></div>
+    <div><a href="#javaee26">26. SQL 매핑 프레임웍은 무엇인가?</a></div>
+    <div><a href="#javaee27">27. SpringMVC 란 무엇인가?</a></div>
+    <div><a href="#javaee28">28. POJO 란 무엇인가?</a></div>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javase1">
@@ -156,13 +155,13 @@ JDBC는 선에서 만든, RDBMS에 접근하여 SQL문을 실행하기 위한, �
 <div>
     <h2>12. 모델1과 모델2의 차이점은?</h2>
     <p>+ 모델1은 뷰와 로직을 모두 JSP페이지 하나에서 처리하는 방식이며 개발속도가 빠르지만 유지보수와 확장에 대한 어려움이 있습니다. 모델2는 모델1과 달리 JSP페이지, Servlet, 로직을 위한 클래스를 나뉘어 브라우저 요청을 처리하는 방식으로, 초기 구조설계에 많은 시간을 투자해야한다는 단점이 있으나 유지보수와 확장이 용이하다는 장점이 있습니다.</p>
-    <p>MVC패턴(모델2) - Model:javaBean, View:jsp, <b>Controller:servlet</b></p>
+    <p>MVC패턴(모델2) - <b>M</b>odel:javaBean, <b>V</b>iew:jsp, <b>C</b>ontroller:servlet</p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee13">
 <div>
     <h2>13. MVC 패턴이 무엇이고 왜 사용하는가?</h2>
-    <p>+ </p>
+    <p>+ MVC란 Model View Controller의 약자로 에플리케이션을 세가지의 역할로 구분한 개발 방법론입니다. 사용자가 Controller를 조작하면 Controller는 Model을 통해서 데이터를 가져오고 그 정보를 바탕으로 시각적인 표현을 담당하는 View를 제어해서 사용자에게 전달하게 됩니다.</p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee14">
@@ -210,53 +209,49 @@ JDBC는 선에서 만든, RDBMS에 접근하여 SQL문을 실행하기 위한, �
 <!--공백--><div><br><br></div><hr id="javaee21">
 <div>
     <h2>21. 디자인패턴이란 무엇이고 개발시 적용해본 패턴에는 어떤것이 있는가?</h2>
-    <p>+ </p>
+    <p>+ 디자인 패턴이란 건축으로치면 공법에 해당하는 것으로 소프트웨어의 개발 방법을 공식화 한 것입니다. 소수의 뛰어난 엔지니어가 해결한 문제를 다수의 엔지니어들이 처리 할 수 있도록 한 규칙이면서, 구현자들 간의 커뮤니케이션의 효율성을 높이는 기법입니다.<br>
+    교육이수 과정의 파이널 프로젝트로 MVC패턴을 적용한 적이 있습니다.</p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee22">
 <div>
-    <h2>22. 바인드변수란 무엇인가?</h2>
-    <p>+ </p>
+    <h2>22. 사용할 수 있는 IDE에는 무엇이 있는가?</h2>
+    <p>+ 이클립스를 사용할 수 있습니다.</p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee23">
 <div>
-    <h2>23. 사용할 수 있는 IDE에는 무엇이 있는가?</h2>
+    <h2>23. VCS(Version Control System)에 대해 설명하고, 이 중 사용할 수 있는 시스템은 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee24">
 <div>
-    <h2>24. VCS(Version Control System)에 대해 설명하고, 이 중 사용할 수 있는 시스템은 무엇인가?</h2>
+    <h2>24. 프레임워크란 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee25">
 <div>
-    <h2>25. 프레임워크란 무엇인가?</h2>
+    <h2>25. ORM 프레임웍은 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee26">
 <div>
-    <h2>26. ORM 프레임웍은 무엇인가?</h2>
+    <h2>26. SQL 매핑 프레임웍은 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee27">
 <div>
-    <h2>27. SQL 매핑 프레임웍은 무엇인가?</h2>
+    <h2>27. SpringMVC 란 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee28">
 <div>
-    <h2>28. SpringMVC 란 무엇인가?</h2>
+    <h2>28. POJO 란 무엇인가?</h2>
     <p>+ </p>
 </div>
 
-<!--공백--><div><br><br></div><hr id="javaee29">
-<div>
-    <h2>29. POJO 란 무엇인가?</h2>
-    <p>+ </p>
-</div>
