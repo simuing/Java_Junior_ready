@@ -91,7 +91,7 @@
 <div>
     <h2>6. 다형성이란 무엇인가?</h2>
     <h3>다형성(polymorphism)</h3>
-    <p>+객체지향 프로그래밍의 특징 중 하나인 다형성은 같은 모양의 코드가 다른 행위를 하는 것을 나타냅니다. 자바에서 다형성의 개념을 녹여낸 방법은 오버라이딩과 오버로딩 두 가지가 있습니다.</p>
+    <p>+ 객체지향 프로그래밍의 특징 중 하나인 다형성은 같은 모양의 코드가 다른 행위를 하는 것을 나타냅니다. 자바에서 다형성의 개념을 녹여낸 방법은 오버라이딩과 오버로딩 두 가지가 있습니다.</p>
     <p>+ [고급]오버라이딩은 대상이 되는 함수를 런타임 시점에 정의하고 오버로딩은 컴파일 시점에 정의합니다.</p>
     <h3>오버라이딩(Overriding)</h3>
     <p>오버라이딩은 슈퍼클래스를 상속받은 서브 클래스에서 슈퍼 클래스의 (추상) 메소드를 같은 이름, 같은 반환값, 같은 인자로 메소드 내의 로직들을 새롭게 정의하는 것을 말합니다.</p>
@@ -120,10 +120,9 @@
 <!--공백--><div><br><br></div><hr id="javase9">
 <div>
     <h2>9. 스트림의 종류를 설명하세요.</h2>
-    <h3>InputStream</h3>
-    <p></p>
-    <h3>OutputStream</h3>
-    <p></p>
+    <p>+ 스트림이란 프로그램과 I/O 객체를 연결하여 데이터를 송수신 하는 길을 말합니다. InputStream은 데이터를 읽어 들이는 객체이고, OutputStream은 데이터를 써서 보내는 객체입니다.</p>
+    <p>+ 데이터를 어떤 방식으로 전달하느냐에 따라 스트림은 바이트 스트림(Byte Stream)과 문자 스트림(Character Stream)으로 나뉩니다. 바이트 스트림은 binary 데이터를 입출력하는 스트림으로써 이미지, 동영상 등을 송수신할 때 주로 사용합니다. 문자 스트림은 말 그대로 text 데이터를 입출력하는데 사용하는 스트리으로써 html 문서, 텍스트 파일을 송수신할 때 사용합니다.</p>
+    → http://victorydntmd.tistory.com/134
 </div>
 
 <!--공백--><div><br><br></div><hr id="javase10">
@@ -136,74 +135,118 @@ JDBC는 선에서 만든, RDBMS에 접근하여 SQL문을 실행하기 위한, �
     → http://www.java-school.net/jdbc/JDBC-Intro
 </div>
 
+    
+
 <!--공백--><div><br><br></div><hr id="javaee11">
 <div>
-    <h2>11. </h2>
+    <h2>11. 커넥션풀링이란 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee12">
 <div>
-    <h2>12. </h2>
+    <h2>12. 모델1과 모델2의 차이점은?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee13">
 <div>
-    <h2>13. </h2>
+    <h2>13. MVC 패턴이 무엇이고 왜 사용하는가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee14">
 <div>
-    <h2>14. </h2>
+    <h2>14. 모델2란 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee15">
 <div>
-    <h2>15. </h2>
+    <h2>15. WAS란 무엇이고 사용해본 제품은 어떤것이 있는가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee16">
 <div>
-    <h2>16. </h2>
+    <h2>16. X-Internet 이란 무엇이고 사용해본 솔루션에는 어떤 것이 있는가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee17">
 <div>
-    <h2>17. </h2>
+    <h2>17. 사용해본 데이터베이스 모델링 툴은 어떤게 있는가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee18">
 <div>
-    <h2>18. </h2>
+    <h2>18. 서블릿의 생명주기를 설명하세요.</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee19">
 <div>
-    <h2>19. </h2>
+    <h2>19. jar 와 war의 차이점은 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee20">
 <div>
-    <h2>21. </h2>
+    <h2>20. 바인드변수란 무엇인가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee21">
 <div>
-    <h2>21. </h2>
+    <h2>21. 디자인패턴이란 무엇이고 개발시 적용해본 패턴에는 어떤것이 있는가?</h2>
     <p>+ </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee22">
 <div>
-    <h2>22. </h2>
+    <h2>22. 바인드변수란 무엇인가?</h2>
+    <p>+ </p>
+</div>
+
+<!--공백--><div><br><br></div><hr id="javaee23">
+<div>
+    <h2>23. 사용할 수 있는 IDE에는 무엇이 있는가?</h2>
+    <p>+ </p>
+</div>
+
+<!--공백--><div><br><br></div><hr id="javaee24">
+<div>
+    <h2>24. VCS(Version Control System)에 대해 설명하고, 이 중 사용할 수 있는 시스템은 무엇인가?</h2>
+    <p>+ </p>
+</div>
+
+<!--공백--><div><br><br></div><hr id="javaee25">
+<div>
+    <h2>25. 프레임워크란 무엇인가?</h2>
+    <p>+ </p>
+</div>
+
+<!--공백--><div><br><br></div><hr id="javaee26">
+<div>
+    <h2>26. ORM 프레임웍은 무엇인가?</h2>
+    <p>+ </p>
+</div>
+
+<!--공백--><div><br><br></div><hr id="javaee27">
+<div>
+    <h2>27. SQL 매핑 프레임웍은 무엇인가?</h2>
+    <p>+ </p>
+</div>
+
+<!--공백--><div><br><br></div><hr id="javaee28">
+<div>
+    <h2>28. SpringMVC 란 무엇인가?</h2>
+    <p>+ </p>
+</div>
+
+<!--공백--><div><br><br></div><hr id="javaee29">
+<div>
+    <h2>29. POJO 란 무엇인가?</h2>
     <p>+ </p>
 </div>
