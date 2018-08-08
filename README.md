@@ -185,7 +185,7 @@ JDBC는 선에서 만든, RDBMS에 접근하여 SQL문을 실행하기 위한, �
 <!--공백--><div><br><br></div><hr id="javaee17">
 <div>
     <h2>17. 사용해본 데이터베이스 모델링 툴은 어떤게 있는가?</h2>
-    <p>+ </p>
+    <p>+ exERD와 draw.io가 있습니다.</p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee18">
@@ -228,7 +228,7 @@ JDBC는 선에서 만든, RDBMS에 접근하여 SQL문을 실행하기 위한, �
 <!--공백--><div><br><br></div><hr id="javaee24">
 <div>
     <h2>24. 프레임워크란 무엇인가?</h2>
-    <p>+ </p>
+    <p>+ 틀, 뼈대, 약속이라고 볼 수 있습니다.</p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee25">
