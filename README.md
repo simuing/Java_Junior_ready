@@ -252,6 +252,8 @@ JDBC는 선에서 만든, RDBMS에 접근하여 SQL문을 실행하기 위한, �
 <!--공백--><div><br><br></div><hr id="javaee28">
 <div>
     <h2>28. POJO 란 무엇인가?</h2>
-    <p>+ </p>
+    <p>+ Plain Old Java Object 의 약자로 오래된 방식의 간단한 자바 오브젝트라는 말로서 Java EE 등의 중량 프레임워크들을 사용하게 되면서 해당 프레임워크에 종속된 "무거운" 객체를 만들게 된 것에 반발해서 사용되게 된 용어입니다. getter 와 setter 로 구성된 클래스 입니다.</p>
+    → https://ko.wikipedia.org/wiki/Plain_Old_Java_Object
+    → https://www.quora.com/What-is-POJO-in-Java
 </div>
 
