@@ -249,6 +249,7 @@ JDBC는 선에서 만든, RDBMS에 접근하여 SQL문을 실행하기 위한, �
     <p>+ </p>
 </div>
 
+
 <!--공백--><div><br><br></div><hr id="javaee28">
 <div>
     <h2>28. POJO 란 무엇인가?</h2>
