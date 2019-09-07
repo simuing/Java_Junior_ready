@@ -5,7 +5,7 @@
     <div><a href="#stack_q1">&nbsp;1. Hashmap 과 Hashtable의 차이점이 뭔가요?</a></div>
     <div><a href="#stack_q2">&nbsp;2. Spring을 사용하는 이유는 무엇인가요?</a></div>
     <div><a href="#stack_q3">&nbsp;3. 회사 채용공고에 기재된 개발언어에 대해 생각나는대로 말해주세요.</a></div>
-    <div><a href="#stack_q4">&nbsp;4. TPS가 뭔지 들어보셨나요?</a></div>
+    <div><a href="#stack_q4">&nbsp;4. TPS가 뭔지 아는대로 설명해주세요.</a></div>
     <div><a href="#stack_q5">&nbsp;5. 가장 자신있는 스킬 한가지를 말해주세요.</a></div>
     <div><a href="#stack_q6">&nbsp;6. Angular와 React의 차이점이 뭔지 아는대로 설명해주세요.</a></div>
     <div><a href="#stack_q7">&nbsp;7. 젠킨스로 서버 배포하는 것에 대해 아시나요?</a></div>
@@ -32,9 +32,38 @@
     <p></p>
 </div>
 
-<!-- 자료구조 질문 -->
 <div><br><br></div><hr id="stack_q2">
 <div>
     <h2>2. Spring을 사용하는 이유는 무엇인가요?</h2>
     <p></p>
+</div>
+
+<div><br><br></div><hr id="stack_q3">
+<div>
+    <h2>3. 회사 채용공고에 기재된 개발언어에 대해 생각나는대로 말해주세요.</h2>
+    <p></p>
+</div>
+
+<div><br><br></div><hr id="stack_q4">
+<div>
+    <h2>4. TPS가 뭔지 아는대로 설명해주세요.</h2>
+    <p></p>
+</div>
+
+<div><br><br></div><hr id="stack_q5">
+<div>
+    <h2>5. 가장 자신있는 스킬 한가지를 말해주세요.</h2>
+    <p></p>
+</div>
+
+<div><br><br></div><hr id="stack_q6">
+<div>
+    <h2>6. Angular와 React의 차이점이 뭔지 아는대로 설명해주세요.</h2>
+    <p></p>
+</div>
+
+<div><br><br></div><hr id="stack_q7">
+<div>
+    <h2>7. 젠킨스로 서버 배포하는 것에 대해 아시나요?</h2>
+    <p>젠킨스( Jenkins )는 빌드, 테스트, 배포 등의 지속적인 통합을 자동화 해주는 툴입니다. (작성중)</p>
 </div>
