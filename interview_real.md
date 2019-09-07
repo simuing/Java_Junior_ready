@@ -1,5 +1,5 @@
 
-<div><h1>실제로 받았던 질문에 대한 모법 답안 정리</h1></div>
+<div><h1>실제로 받았던 질문에 대한 예상 모법 답안 정리</h1></div>
 <div>
     <h3>기술면접 질문</h3>
     <div><a href="#stack_q1">&nbsp;1. Hashmap 과 Hashtable의 차이점이 뭔가요?</a></div>
