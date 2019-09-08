@@ -1,5 +1,5 @@
 
-<div><h1>실제로 받았던 질문에 대한 예상 모법 답안 정리</h1></div>
+<div><h1>실제로 받았던 질문과 예상 모법답안 정리</h1></div>
 <div>
     <h3>기술면접 질문</h3>
     <div><a href="#stack_q1">&nbsp;1. Hashmap 과 Hashtable의 차이점이 뭔가요?</a></div>
@@ -29,7 +29,7 @@
 <div><br><br></div><hr id="stack_q1">
 <div>
     <h2>1. Hashmap 과 Hashtable의 차이점이 뭔가요?</h2>
-    <p></p>
+    <p>HashMap은 동기화되지 않습니다. 스레드가 안전하지 않으며 적절한 동기화 코드없이 많은 스레드간 공유가 힘들지만 Hashtable은 동기화가 가능합니다. 스레드가 안전하고 많은 스레드와 공유 할 수 있습니다. HashMap은 하나의 null 키와 여러 null 값을 허용하지만 Hashtable은 null 키나 값을 허용하지 않습니다. 스레드 동기화가 필요하지 않은 경우 일반적으로 HashMap이 HashTable보다 선호됩니다.</p>
 </div>
 
 <div><br><br></div><hr id="stack_q2">
