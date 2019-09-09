@@ -36,7 +36,9 @@
 <div><br><br></div><hr id="stack_q2">
 <div>
     <h3>2. Spring을 사용하는 이유는 무엇인가요?&nbsp;&nbsp;<a href="#top">↑</a></h3>
-    <p>스프링 주요특징
+    <p>
+        
+    스프링 주요특징
     1. POJO 기반의 구성
     2. 의존성 주입(DI)을 통한 객체 간의 관계 구성
     3. AOP(Aspect-Oriented-Programminig)지원
@@ -46,7 +48,9 @@
     스프링 버전별 암기사항
     1. Spring 2.5 : Annotation 도입
     2. Spring 3.0 : 별도 설정 없이 Java 클래스만으로 설정 파일을 대신할 수 있게 지원
-    3. Spring 4.0 : 모바일/웹 환경에서 많이 사용되는 REST 방식의 컨트롤러 지원</p>
+    3. Spring 4.0 : 모바일/웹 환경에서 많이 사용되는 REST 방식의 컨트롤러 지원
+    
+    </p>
 </div>
 
 <div><br><br></div><hr id="stack_q3">
@@ -59,6 +63,7 @@
 <div>
     <h3>4. TPS가 뭔지 아는대로 설명해주세요.&nbsp;&nbsp;<a href="#top">↑</a></h3>
     <p>초당 트랜잭션 (TPS)은 초당 실행 된 트랜잭션 수입니다. 즉, 특정 테스트 기간 동안 실행 된 트랜잭션 수를 기반으로 계산 한 다음 1 초 동안 계산할 수 있습니다.</br>예를 들어, vuser가 1 분마다 6 개의 트랜잭션을 실행하면 TPS는 6 개의 트랜잭션 / 60 초 = 0.10 TPS입니다.</p>
+    <a href="https://theperformanceengineer.com/2013/09/11/loadrunner-how-to-calculate-transaction-per-second-tps/">https://theperformanceengineer.com/2013/09/11/loadrunner-how-to-calculate-transaction-per-second-tps/</a>
 </div>
 
 <div><br><br></div><hr id="stack_q5">
