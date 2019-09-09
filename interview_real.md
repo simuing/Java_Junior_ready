@@ -31,6 +31,7 @@
 <div>
     <h2>1. Hashmap 과 Hashtable의 차이점이 뭔가요?&nbsp;&nbsp;<a href="#top">↑</a></h2>
     <p>HashMap은 동기화되지 않습니다. 스레드가 안전하지 않으며 적절한 동기화 코드없이 많은 스레드간 공유가 힘들지만 Hashtable은 동기화가 가능합니다. 스레드가 안전하고 많은 스레드와 공유 할 수 있습니다. HashMap은 하나의 null 키와 여러 null 값을 허용하지만 Hashtable은 null 키나 값을 허용하지 않습니다. 스레드 동기화가 필요하지 않은 경우 일반적으로 HashMap이 HashTable보다 선호됩니다.</p>
+    <a href="https://simuing.tistory.com/260">https://simuing.tistory.com/260</a>
 </div>
 
 <div><br><br></div><hr id="stack_q2">
@@ -70,7 +71,7 @@
 <div><br><br></div><hr id="stack_q6">
 <div>
     <h2>6. Angular와 React의 차이점이 뭔지 아는대로 설명해주세요.&nbsp;&nbsp;<a href="#top">↑</a></h2>
-    <p></p>
+    <p>앵귤러는 프레임워크이고 리액트는 라이브러리입니다.</p>
 </div>
 
 <div><br><br></div><hr id="stack_q7">
