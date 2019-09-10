@@ -12,6 +12,7 @@
     <div><a href="#stack_q8">&nbsp;8. 사용자 정의 에러처리를 해보았나요?</a></div>
     <div><a href="#stack_q9">&nbsp;9. 본인의 러닝커브는 어떻게 되나요?</a></div>
     <div><a href="#stack_q10">&nbsp;10. 새로운 지식을 배울 때 주로 어디에서 공부하나요?</a></div>
+    <div><a href="#stack_q11">&nbsp;11. Typescript를 쓰는 이유가 무엇인가요?</a></div>
 </div>
 <div>
     <h3>업무관련 질문</h3>
@@ -107,6 +108,11 @@
     <p>인터넷 검색을 통해 파악한 뒤 기초를 공부합니다. 그리고 깊이 있게 공부할 땐 책을 구입해서 병행합니다.</p>
 </div>
 
+<div><br><br></div><hr id="stack_q11">
+<div>
+    <h3>11. Typescript를 쓰는 이유가 무엇인가요?&nbsp;&nbsp;<a href="#top">↑</a></h3>
+    <p></p>
+</div>
 
 <!-- ==================== ==================== 업무관련 질문 ==================== ==================== -->
 <div><br><br></div><hr id="work_q1">
