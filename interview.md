@@ -197,7 +197,7 @@ JDBC는 선에서 만든, RDBMS에 접근하여 SQL문을 실행하기 위한, �
 <!--공백--><div><br><br></div><hr id="javaee19">
 <div>
     <h2>19. jar 와 war의 차이점은 무엇인가?</h2>
-    <p>+ 파일은 엔터프라이즈 Java Bean (클래스 파일) 및 EJB 배치 디스크립터를 포함하는 EJB 모듈은 .jar 확장을 갖는 JAR 파일로 압축됩니다. 서블릿 클래스 파일, JSP 파일, 지원 파일, GIF 및 HTML 파일을 포함하는 웹 모듈은 확장자가 .war인 JAR 파일로 패키지됩니다. </p>
+    <p>+ 엔터프라이즈 Java Bean (클래스 파일) 및 EJB 배치 디스크립터를 포함하는 EJB 모듈은 .jar 확장을 갖는 JAR 파일로 압축됩니다. 서블릿 클래스 파일, JSP 파일, 지원 파일, GIF 및 HTML 파일을 포함하는 웹 모듈은 확장자가 .war인 JAR 파일로 패키지됩니다. </p>
 </div>
 
 <!--공백--><div><br><br></div><hr id="javaee20">
