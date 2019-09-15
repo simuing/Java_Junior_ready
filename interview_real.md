@@ -43,7 +43,6 @@
 <div><br><br></div><hr id="stack_q2">
 <div>
     <h3>2. Spring을 사용하는 이유는 무엇인가요?&nbsp;&nbsp;<a href="#top">↑</a></h3>
-    <p>
         
     스프링 주요특징
     1. POJO 기반의 구성
@@ -57,7 +56,6 @@
     2. Spring 3.0 : 별도 설정 없이 Java 클래스만으로 설정 파일을 대신할 수 있게 지원
     3. Spring 4.0 : 모바일/웹 환경에서 많이 사용되는 REST 방식의 컨트롤러 지원
     
-    </p>
 </div>
 
 <div><br><br></div><hr id="stack_q3">
