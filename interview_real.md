@@ -110,7 +110,8 @@
 <div><br><br></div><hr id="stack_q11">
 <div>
     <h3>11. Typescript를 쓰는 이유가 무엇인가요?&nbsp;&nbsp;<a href="#top">↑</a></h3>
-    <p></p>
+    <p>TypeScript를 사용하는 가장 큰 이유 중 하나는 정적 타입을 지원한다는 것입니다. 컴파일 단계에서 오류를 포착할 수 있는 장점이 있어. 명시적인 정적 타입 지정은 개발자의 의도를 명확하게 코드로 기술할 수 있습니다. 이는 코드의 가독성을 높이고 예측할 수 있게 하며 디버깅을 쉽게 할 수 있습니다.</p>
+    <a href="https://poiemaweb.com/typescript-introduction" target="_blank">https://poiemaweb.com/typescript-introduction</a>
 </div>
 
 <!-- ==================== ==================== 업무관련 질문 ==================== ==================== -->
